@@ -4,6 +4,9 @@ enp0s3           UP             192.168.0.172/24 fe80::a00:27ff:fe7d:c962/64
 
 
 
+
+
+
 cd /etc/sysconfig/network-scripts/
 vi ifcfg-enp0s3
 
